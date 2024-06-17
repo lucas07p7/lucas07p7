@@ -30,8 +30,13 @@
 
 <br><br>
 
-<div> <a href="https://github.com/lucas07p7">
- <div align="center">  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas07p7&theme=dracula)](https://git.io/streak-stats)</div>
-</a>
+<div align="center">
+ 
+ <a href="https://github.com/lucas07p7">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas07p7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas07p7&layout=compact&langs_count=6&theme=dracula">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas07p7&theme=dracula)](https://git.io/streak-stats)
+ </a>
 </div>
 
