@@ -41,7 +41,7 @@
 </div>
 
 
-### Caso queria entrar em contato, abaixo você encontará algumas das minhas redes sociais!
+### Caso queira entrar em contato, abaixo você encontará alguns links pessoais!
 
 <div> 
  <a href="https://instagram.com/__lcavalcante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
