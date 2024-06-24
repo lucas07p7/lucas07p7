@@ -2,7 +2,7 @@
 
 <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B70F5&&center=true&Center=truewidth=100%&lines=Me+chamo+Lucas+Cavalcante;Tenho+21+anos.;Sou+desenvolvedor+Front-End+!;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B70F5&&center=true&Center=truewidth=100%&lines=Oi+me+chamo+Lucas+Cavalcante;Tenho+21+anos.;Sou+desenvolvedor+Front-End+!;)](https://git.io/typing-svg)
  
 </div>
 
